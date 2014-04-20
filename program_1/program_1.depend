@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1381885654 source:e:\finite element methods\program_1\program_1\main.cpp
+	"continue_program_1.h"
+	<string>
+
+1381848473 e:\finite element methods\program_1\program_1\program_1.h
+	<stdio.h>
+	<math.h>
+	<functional>
+	<tr1/functional>
+	<algorithm>
+	<iostream>
+
+1381738138 source:e:\finite element methods\program_1\program_1\program_1.cpp
+	"program_1.h"
+
+1381886088 e:\finite element methods\program_1\program_1\continue_program_1.h
+	"program_1.h"
+

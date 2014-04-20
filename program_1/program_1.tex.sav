@@ -1,0 +1,27 @@
+\documentclass[a4paper,10pt]{article}
+
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{xltxtra}
+\usepackage{mflogo,texnames}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{indentfirst}
+\usepackage{fancyhdr}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+
+\begin{document}
+
+\title{ \textbf{\Huge{Finite Elements Method}} }
+\subtitle{\textbf{\Huge{$Assignment_1$}}}
+%\author{name___________}
+%\author{student ID_____________}
+
+
+\maketitle
+
+zhangke sb
+
+\end{document}
